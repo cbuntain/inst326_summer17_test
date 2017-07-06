@@ -6,3 +6,7 @@ INST326 Summer 2017 test repository
 ## This is a test
 
 Hello, world!
+
+# Documentation
+
+Install by cloning and run

@@ -7,6 +7,7 @@ INST326 Summer 2017 test repository
 
 Hello, world!
 
+\
 ## Requirements
 
 To run this, you need the following packages:
@@ -14,3 +15,8 @@ To run this, you need the following packages:
 - None
 - Nothing
 - Nada
+
+# Documentation
+
+Install by cloning and run
+
